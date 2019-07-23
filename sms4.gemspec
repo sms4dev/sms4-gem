@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
-  s.name        = 'SMS4'
-  s.version     = '0.0.1'
+  s.name        = 'sms4'
+  s.version     = '0.1.0'
   s.date        = '2019-07-23'
   s.summary     = "Simple and straightforward way to send text messages"
   s.description = "A ruby gem for utilizing sms4.dev API"
